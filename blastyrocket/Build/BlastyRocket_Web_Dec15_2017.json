@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BlastyRocket_Web_Dec15_2017.data.unityweb",
+"asmCodeUrl": "BlastyRocket_Web_Dec15_2017.asm.code.unityweb",
+"asmMemoryUrl": "BlastyRocket_Web_Dec15_2017.asm.memory.unityweb",
+"asmFrameworkUrl": "BlastyRocket_Web_Dec15_2017.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
